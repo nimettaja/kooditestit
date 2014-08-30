@@ -11,7 +11,7 @@ def main():
 	name = raw_input()
 	print "Jaa, lempivarisi on siis", name
 	print "Rasmuksen eka python ohjelma loppu tahan"
-	print "(c) RasmusK"
+	print "(c) Ranpe"
 	return 0
 
 if __name__ == '__main__':
