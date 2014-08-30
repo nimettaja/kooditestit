@@ -7,4 +7,4 @@ Muokkaan aina tätä tiedostoa kun laitan jonkun uuden koodin tänne.
 Ranpe.py
 ===============
 Hyvin alkeellinen python tiedosto
-Kysyy nimen ja lempivärin ja lopuksi tulee pluslaskin
+Kysyy nimen ja lempivärin ja lopuksi tulee pluslaskin.
