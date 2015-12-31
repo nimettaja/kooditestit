@@ -6,5 +6,6 @@ Muokkaan aina tätä tiedostoa kun laitan jonkun uuden koodin tänne.
 
 Ranpe.py
 ===============
-Hyvin alkeellinen python tiedosto
+Ensimmäinen python skriptini!
+Hyvin alkeellinen python skripti!
 Kysyy nimen ja lempivärin ja lopuksi tulee pluslaskin.
