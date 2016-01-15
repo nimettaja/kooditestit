@@ -7,7 +7,7 @@ if nimi in vip:
 else: 
 	print "fuk u"
 
-aprint "Tervetuloa!"
+print "Tervetuloa!"
 
 tunnus = raw_input("Tunnus: ")
 salasana = getpass.getpass("Salasana: ")
